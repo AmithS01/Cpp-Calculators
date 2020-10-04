@@ -20,4 +20,6 @@ These are pre-compiled calculators that run on any device without the need of in
 Click [here](https://www.windowscentral.com/how-disable-smartscreen-trusted-app-windows-10) to know how to block Windows SmartScreen 
 
 Proof is here...
+
 ![Proof For QuadS](https://github.com/AmithS01/Cpp-Calculators/blob/main/Proof%20QUADS.png)
+!(https://github.com/AmithS01/Cpp-Calculators/blob/main/Proof%20Circle%20Solver.jpg)
