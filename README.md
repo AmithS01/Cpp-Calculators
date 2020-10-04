@@ -4,6 +4,7 @@ These are pre-compiled calculators that run on any device without the need of in
 ### My Works
 1. QuadS
     QuadS is a C++ calculator to solve Quadratic equations...
+    
     Click [here](https://github.com/AmithS01/Mega-Calculators/blob/master/QuadS.HTML) for the HTML executable file written in Python.
 
 2. Circle Solver
@@ -18,6 +19,7 @@ These are pre-compiled calculators that run on any device without the need of in
 #### Warning ⚠ 
 1. You must enter your name in this unlike before's Python version calc!
 2. Trust me... it is not a virus tho the Windows SmartScreen or Antivirus may block it (Due to .exe extention)...
+
 Click [here](https://www.windowscentral.com/how-disable-smartscreen-trusted-app-windows-10) to know how to block Windows SmartScreen 
 
 Proof is here...
