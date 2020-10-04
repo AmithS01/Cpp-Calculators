@@ -22,4 +22,4 @@ Click [here](https://www.windowscentral.com/how-disable-smartscreen-trusted-app-
 Proof is here...
 
 ![Proof For QuadS](https://github.com/AmithS01/Cpp-Calculators/blob/main/Proof%20QUADS.png)
-!(https://github.com/AmithS01/Cpp-Calculators/blob/main/Proof%20Circle%20Solver.jpg)
+![](https://github.com/AmithS01/Cpp-Calculators/blob/main/Proof%20Circle%20Solver.jpg)
