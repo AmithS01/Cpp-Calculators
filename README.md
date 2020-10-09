@@ -19,7 +19,7 @@ These are pre-compiled calculators that run on any device without the need of in
 
 3. Tables
     
-    This is a C++ to print tables of any desired number you need...All you need to input is your name(For better interactions) and the number(x)! It will automatically give tables of the number(x) till x×20!
+    This is a C++ to print tables of any desired number you need...All you need to input is your name(For better interactions) and the number(x)! It will automatically give tables of the number(x) till X×20!
     
     Sorry... This project is not written in python...
 
